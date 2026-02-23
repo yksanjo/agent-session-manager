@@ -1,5 +1,12 @@
 # agent-session-manager
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agent-session-manager/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agent-session-manager/actions)
+![License](https://img.shields.io/github/license/yksanjo/agent-session-manager)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agent-session-manager)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agent-session-manager)
+
 ## Detailed Description
 
 agent-session-manager is maintained as an industry-grade software project with production-ready engineering practices.  
